@@ -1,0 +1,8 @@
+questions
+
+-est-ce qu'un élément <h1> est plus grand qd il est imbriqué dans un <article> que qd il l'est dans une <section>?
+
+-utilisation de Figma / Git Hub
+
+
+

@@ -1,0 +1,23 @@
+.xp_katia {
+    border-right: 1px #A5B4FC solid;
+    border-bottom: 1px #A5B4FC solid;
+    padding: 50px;
+}
+
+.xp_katia h2 {
+    margin-top: 30px;
+}
+
+.xp_katia ul {
+    margin-top: 30px;
+}
+
+.a-propos-main {
+    width: 50%;
+    margin: auto;
+}
+
+.a-propos-main a {
+    display: inline-block;
+    margin: auto;
+}
