@@ -1,6 +1,7 @@
 table {
     border-collapse: collapse;
     margin: 80px;
+    text-align: center;
 }
 
 td,
@@ -14,5 +15,5 @@ caption {
 }
 
 td {
-    padding: 30px;
+    padding: 40px;
 }
