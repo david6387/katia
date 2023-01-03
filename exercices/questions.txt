@@ -1,9 +1,0 @@
-questions
-
--est-ce qu'un élément <h1> est plus grand qd il est imbriqué dans un <article> que qd il l'est dans une <section>?
-
--utilisation de Figma / Git Hub
-
--est-ce que je peux faire suivre un lien href de plus d'une adresse ou bien ajouter un "href supplementaire directement à la suite?
-ex: <link rel="stylesheet" href="style.css" + un autre emplacement />
-

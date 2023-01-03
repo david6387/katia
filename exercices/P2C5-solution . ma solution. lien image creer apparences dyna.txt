@@ -1,7 +1,0 @@
-.entete img:hover {
-    opacity: 0.5;
-}
-
-.pied-de-page img:hover {
-    opacity: 0.5;
-}
