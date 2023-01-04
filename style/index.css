@@ -29,7 +29,31 @@
     margin: auto;
 }
 
+.formulaire {
+    background-color: #1F2039;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulaire h2 {
+    color: #f9f8ff;
+}
+
 form {
     color: black;
     margin: auto;
+}
+
+label {
+    color: #f9f8ff;
+}
+
+input,
+textarea {
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    outline: none;
+
 }
