@@ -1,6 +1,7 @@
 .accueil-photos {
     background-color: white;
-    padding: 80px;
+    padding: 20px;
+
 }
 
 .accueil-photos h2 {
@@ -24,7 +25,7 @@
 .accueil-introduction {
     display: flex;
     flex-direction: row;
-    width: 60%;
+    max-width: 1000px;
     align-items: center;
     margin: auto;
 }
@@ -41,7 +42,7 @@ form {
     display: flex;
     flex-direction: column;
     color: #f9f8ff;
-    width: 40%;
+    max-width: 1000px;
 }
 
 .form-nom-email {

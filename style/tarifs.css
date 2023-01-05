@@ -2,6 +2,7 @@ table {
     border-collapse: collapse;
     margin: 80px;
     text-align: center;
+    display: none;
 }
 
 td,

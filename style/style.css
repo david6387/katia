@@ -24,7 +24,7 @@ em {
 }
 
 h1 {
-    font-size: 3.5em;
+    font-size: 2;
     color: #a5b4fc;
     font-family: 'Montserrat', sans-serif;
 }
@@ -83,18 +83,13 @@ footer a {
     margin-left: 30px;
 }
 
-@media screen and (max-width: 1200px) {
-    p {
-        color: deeppink;
-    }
-}
+@media screen and (max-width: 996px) {
 
-@media screen and (max-width: 960px) {
-    img {
-        display: none;
+    footer,
+    header,
+    nav,
+    form div {
+        flex-direction: column;
     }
 
-    p {
-        overflow: scroll;
-    }
 }
