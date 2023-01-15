@@ -59,6 +59,7 @@ header {
 .cta:hover {
     background: linear-gradient(#696484, #8788BA);
     text-decoration: none;
+    cursor: pointer;
 }
 
 .lien-icone:hover {
